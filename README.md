@@ -11,3 +11,4 @@ https://user-images.githubusercontent.com/104715190/166199294-1db84cc9-987d-4f07
 # scene3
 https://user-images.githubusercontent.com/104715190/166199432-de511b67-8a33-4c66-b277-eb7ae40fc01b.mp4
 # A dedicated DATA science project based on real data - "Suicides in India during 2020 - data science project".
+# Another practice project - "Soccer" 

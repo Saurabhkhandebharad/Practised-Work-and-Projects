@@ -12,4 +12,5 @@ https://user-images.githubusercontent.com/104715190/166199294-1db84cc9-987d-4f07
 ![VectorArrow_ManimCE_v0 15 1](https://user-images.githubusercontent.com/104715190/166199096-a613cd3e-11e2-4470-8785-c67ff843df7e.png)
 # scene3
 https://user-images.githubusercontent.com/104715190/166199432-de511b67-8a33-4c66-b277-eb7ae40fc01b.mp4
-
+# Scraping multiple pages with dignified crawling
+A data crawling code capable of deriving title and text from a site into individual text files.

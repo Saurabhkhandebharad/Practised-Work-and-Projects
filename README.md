@@ -14,3 +14,5 @@ https://user-images.githubusercontent.com/104715190/166199294-1db84cc9-987d-4f07
 https://user-images.githubusercontent.com/104715190/166199432-de511b67-8a33-4c66-b277-eb7ae40fc01b.mp4
 # Scraping multiple pages with dignified crawling
 A data crawling code capable of deriving title and text from a site into individual text files.
+# Credit defaults calculation with simple interest 
+practise on simple interest formula with conditions.
